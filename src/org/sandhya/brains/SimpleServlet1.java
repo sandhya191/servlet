@@ -10,6 +10,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
+ * @author Sandhya
  * Servlet implementation class SimpleServlet1
  */
 @WebServlet(description = "It is simple servlet", urlPatterns = { "/SimpleServlet1Path" })
