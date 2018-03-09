@@ -1,4 +1,4 @@
-package org.sandhya.brains;
+package org.sandhya.com;
 
 import java.io.IOException;
 import java.io.PrintWriter;
